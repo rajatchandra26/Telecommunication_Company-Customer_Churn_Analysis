@@ -11,23 +11,23 @@ The dataset was obtained from the internet in CSV format and includes a wide ran
 
 Data Processing:
 
-Importing Data: The raw CSV data was imported into MySQL Workbench to ensure a structured and efficient data handling process.
+1. Importing Data: The raw CSV data was imported into MySQL Workbench to ensure a structured and efficient data handling process.
 
-Data Cleaning: In MySQL Workbench, the data was cleaned and organized into a staging table named prod_churn. This process involved handling missing values, correcting data types, and ensuring consistency and accuracy.
+2. Data Cleaning: In MySQL Workbench, the data was cleaned and organized into a staging table named prod_churn. This process involved handling missing values, correcting data types, and ensuring consistency and accuracy.
 
-Exporting Clean Data: The cleaned data was exported to an Excel file, preparing it for detailed analysis and visualization in Power BI.
+3. Exporting Clean Data: The cleaned data was exported to an Excel file, preparing it for detailed analysis and visualization in Power BI.
 
 Data Visualization: 
 
 Using Power BI, a comprehensive dashboard was created to explore and analyze the data. Key visualizations include:
 
-Demographic Analysis: Visualizations showing the distribution of customers by gender, age, marital status, and state. These charts help identify demographic trends among churned customers.
+1. Demographic Analysis: Visualizations showing the distribution of customers by gender, age, marital status, and state. These charts help identify demographic trends among churned customers.
 
-Service Usage Analysis: Insights into the usage of various services like phone service, internet service, and additional features such as online security and streaming services. This helps in understanding which services are most popular and which might be linked to higher churn rates.
+2. Service Usage Analysis: Insights into the usage of various services like phone service, internet service, and additional features such as online security and streaming services. This helps in understanding which services are most popular and which might be linked to higher churn rates.
 
-Financial Analysis: Charts displaying monthly charges, total charges, and revenue metrics provide a clear picture of the financial aspects related to customer churn.
+3. Financial Analysis: Charts displaying monthly charges, total charges, and revenue metrics provide a clear picture of the financial aspects related to customer churn.
 
-Churn Analysis: Detailed analysis of churn categories and reasons, and their correlation with other attributes. This section includes bar charts and pie charts showing churn distribution by demographics and service types, as well as heatmaps to identify patterns and correlations between churn and customer/service attributes.
+4. Churn Analysis: Detailed analysis of churn categories and reasons, and their correlation with other attributes. This section includes bar charts and pie charts showing churn distribution by demographics and service types, as well as heatmaps to identify patterns and correlations between churn and customer/service attributes.
 
 Conclusion:
 
